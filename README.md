@@ -15,27 +15,20 @@ class Program
 
             public string name;
             public string type;
-
             public double Health;
             public double Shield;
             public double HitPoints;
-
             public double strike;
-
             public double pouch;
-
-
         }
         class AiPlayer
         {
             public string name;
             public string type;
-
             public double Health;
             public double Shield;
             public double HitPoints;
             public double strike;
-
             public double pouch;
         }
 
